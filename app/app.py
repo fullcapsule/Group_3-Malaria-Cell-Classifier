@@ -14,7 +14,7 @@ st.set_page_config(
 # Load the model once and cache it
 @st.cache_resource
 def load_malaria_model():
-    model_path = r"C:\Users\Bright\Desktop\ds_today\project\models\malaria_final_production.keras"
+    model_path = r"models/malaria_final_production.keras"
     return tf.keras.models.load_model(model_path)
 
 try:
