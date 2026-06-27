@@ -2,7 +2,8 @@
 
 A deep learning project focused on computer vision classification of blood smear images to automate malaria diagnosis. This system compares a custom Convolutional Neural Network built from scratch against advanced Transfer Learning architectures, ultimately delivering a live web application deployed via Streamlit.
 
-🚀 **Live Application Link:** malaria-cell-classifier33.streamlit.app
+🚀 **Live Application Link:** [![Streamlit App](https://streamlit.io)](https://malaria-cell-classifier33.streamlit.app)
+
 
 ---
 
